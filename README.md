@@ -3,7 +3,7 @@ contrib
 
 Contributions to the various R packages.
 
-*[adegenet](http://cran.r-project.org/package=adegenet):
+* [adegenet](http://cran.r-project.org/package=adegenet):
   - coords.monmonier: returns original points in results paths of an object of class 'monmonier'.
 * [plotrix](http://cran.r-project.org/package=plotrix):
   - draw.ellipse: draws ellipses on an existing plot.
