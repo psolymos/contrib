@@ -1,5 +1,4 @@
-contrib
-=======
+# contrib: miscellaneous contributions to R packages
 
 Contributions to the various R packages.
 
